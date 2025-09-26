@@ -5,7 +5,7 @@ It will be constantly updated depending on the work completed during the semeste
 
 ## Members
 1. Cano Nieto Carlos Arturo
-2. Cortes Bolaños Luis Angel
+2. Cortes Bolaños Angel David 
 3. Martinez Garcia Luis Angel
 4. Rodriguez Jaramillo Alejandro
 5. Urbano Meza Joseph Gael
