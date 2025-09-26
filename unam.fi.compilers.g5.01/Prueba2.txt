@@ -1,0 +1,7 @@
+int main() { 
+    int suma = a + b; 
+    a = 2.5; 
+    b = 3; 
+    printf("Resultado: %d", suma); 
+    return 0;
+}
